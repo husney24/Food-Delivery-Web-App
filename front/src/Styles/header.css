@@ -1,0 +1,72 @@
+.header {
+    height: 51px;
+    background-color: red;
+}
+
+.header-logo {
+    text-align: center;
+    font-size: 38px;
+    color: red;
+    background: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 1%;
+    font-family: Poppins;
+    font-weight: bold;
+    display: inline-block;
+}
+.logo-filter{
+    border: 1px solid white;
+    width: 67px;
+    height: 65px;
+    font-size: 32px;
+    border-radius: 31px;
+    padding: 7px 10px 2px 20px;
+    background-color: white;
+    position: absolute;
+    top: 8px;
+    left: 93px;
+}
+.acc{
+    width: 79px;
+    display: inline-block;
+    font-size: 30px;
+    color: beige;
+}
+.accp{
+    border: 2.5px solid black;
+    width: 186px;
+    height: 44px;
+    display: inline-block;
+    font-size: 27px;
+    margin-left: 30px;
+    color: whitee;
+}
+.log{
+    position: absolute;
+    top: 13px;
+    left: 65%;
+    width: 356px;
+}
+.user-group {
+    float: right;
+    color: white;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.login {
+    display: inline-block;
+}
+
+.signup {
+    display: inline-block;
+    border: solid 1px white;
+    padding: 5px;
+    margin-left: 10px;
+}
+.form input{
+    margin-top: 5px;
+    height: 38px;
+}
